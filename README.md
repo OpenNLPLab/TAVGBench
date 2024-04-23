@@ -12,5 +12,5 @@ Based on the latent diffusion model, we proposed a text to audible-video task, a
 
 ## Video demo
 We provide a video demo to show our results.
-[https://github.com/OpenNLPLab/TAVGBench/assets/38381312/6eb22eb5-9f60-49b5-9acd-d1ba93a849aa](https://youtu.be/VAIvy0Qk7eY)
+[![demo video](https://res.cloudinary.com/marcomontalbano/image/upload/v1713853966/video_to_markdown/images/youtube--VAIvy0Qk7eY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/VAIvy0Qk7eY "demo video")
 
